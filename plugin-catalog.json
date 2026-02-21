@@ -5,7 +5,7 @@
     "Description": "Resilient slideshow web extension — falls back when external services are unavailable.",
     "Author": "M0RPH3US",
     "Version": "1.0.0",
-    "PackageUrl": "REPLACE_WITH_ZIP_URL",
+    "PackageUrl": "https://github.com/stepanskur/Jellyfin-Media-Bar/releases/download/Release/SlideshowPure_1.0.zip",
     "IconUrl": "",
     "Type": "WebExtension"
   }
