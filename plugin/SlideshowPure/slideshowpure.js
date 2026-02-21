@@ -712,7 +712,7 @@ const LocalizationUtils = {
 
         const replaceEscaped = (text) =>
           text
-            .replace(/\\"/g, '"')
+            .replace(/\"/g, '"')
             .replace(/\\n/g, "\n")
             .replace(/\\\\/g, "\\")
             .replace(/\\'/g, "'");
@@ -1860,7 +1860,6 @@ const SlideshowManager = {
    * Upgrades the image quality for all images in a slide
    * @param {HTMLElement} slide - The slide element containing images to upgrade
    */
-
   upgradeSlideImageQuality(slide) {
     if (!slide) return;
 

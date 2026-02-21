@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "SlideshowPure",
+    "Name": "Jellyfin Slideshow Pure",
+    "Description": "Resilient slideshow web extension — falls back when external services are unavailable.",
+    "Author": "M0RPH3US",
+    "Version": "1.0.0",
+    "PackageUrl": "REPLACE_WITH_ZIP_URL",
+    "IconUrl": "",
+    "Type": "WebExtension"
+  }
+]

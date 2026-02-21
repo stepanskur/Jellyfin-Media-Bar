@@ -1,0 +1,12 @@
+{
+  "Id": "SlideshowPure",
+  "Name": "Jellyfin Slideshow Pure",
+  "Version": "1.0.0",
+  "Author": "M0RPH3US (adapted)",
+  "Description": "A resilient slideshow for Jellyfin web client — uses server metadata and falls back when external services (YouTube) are unavailable.",
+  "Website": "https://github.com/",
+  "Files": {
+    "Scripts": ["slideshowpure.js"],
+    "Styles": ["slideshowpure.css"]
+  }
+}
